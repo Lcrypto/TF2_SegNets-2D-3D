@@ -63,6 +63,9 @@ if use grayscale segmentation map use one channel --output_nc 1,  but you can tr
 
 4. Choice train parameters and architecture by changing defaul  values  at main.py or use arguments
  
+ python main.py --phase train --fine_size 180
+ 
+ 
 ```
 
  training data arguments
