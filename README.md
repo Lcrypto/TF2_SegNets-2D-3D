@@ -65,6 +65,8 @@ if use grayscale segmentation map use one channel --output_nc 1,  but you can tr
  
  python main.py --phase train --fine_size 180
  
+ ![alt text](https://github.com/Lcrypto/TF2_SegNets-2D-3D/blob/main/train_seg_net.jpg)
+ 
  
 ```
 
